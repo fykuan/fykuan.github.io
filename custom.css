@@ -19,6 +19,11 @@ body {
     font-weight: 100;
 }
 
+.title-left span {
+    font-size:  13px;
+    font-weight: 100;
+}
+
 .title-right {
     grid-column: 3/4;
     font-size: 14px;
