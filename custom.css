@@ -1,13 +1,13 @@
 body {
     display: grid;
     font-family: sans-serif;
+    padding-bottom: 50px;
 }
 
 @media (min-width: 1000px) {
     body {
         grid-template-columns: auto 700px 300px auto;
         grid-template-rows: auto;
-        padding-bottom: 50px;
     }
 
     .title-left {
